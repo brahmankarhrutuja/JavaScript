@@ -5,7 +5,7 @@ for(let i=0; i<3; i++) {
   
   // program to add first n natural numbers
   const prompt = require('prompt-sync')();
-  let sum = 0
+  let sum = 4
   let n = prompt("Enter the value of n")
   n = Number.parseInt(n)
   for (let i = 0; i < n; i++){
